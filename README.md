@@ -1,11 +1,11 @@
-# 🛵 Honda Product Manager
+## Honda Product Manager
 
 Aplikasi web sederhana berbasis **PHP** dan **MySQL** untuk mengelola data produk unit kendaraan Honda (*Create, Read, Update, Delete* / CRUD). Aplikasi ini dirancang dengan antarmuka yang modern, responsif, dan telah dilengkapi dengan perlindungan keamanan standar seperti token CSRF dan *Prepared Statements*.
 <img width="803" height="434" alt="Hasisl projek manger" src="https://github.com/user-attachments/assets/eacfc8d3-1770-4fcc-a65c-feb0024b2e62" />
 
 ---
 
-## 📸 Fitur Utama
+## Fitur Utama
 
 - **Dashboard Unit Honda**: Menampilkan daftar produk kendaraan Honda dalam bentuk kartu (*card grid*) yang rapi dan responsif.
 - **Manajemen Data (CRUD)**:
@@ -19,7 +19,7 @@ Aplikasi web sederhana berbasis **PHP** dan **MySQL** untuk mengelola data produ
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 - **Language**: PHP (v7.4 / v8.x)
 - **Database**: MySQL / MariaDB
@@ -28,7 +28,7 @@ Aplikasi web sederhana berbasis **PHP** dan **MySQL** untuk mengelola data produ
 
 ---
 
-## 📁 Struktur Folder
+## Struktur Folder
 
 ```text
 honda-product-manager/
